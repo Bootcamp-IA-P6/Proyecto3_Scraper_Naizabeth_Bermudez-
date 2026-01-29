@@ -16,7 +16,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from buscador.views import lista_libros
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', lista_libros, name='lista_libros'), # Esto hace que sea la página principal
 ]
