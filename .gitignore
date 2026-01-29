@@ -1,14 +1,29 @@
-# Ignorar carpetas de dependencias
-node_modules/
-dist/
+# Entorno Virtual (¡Muy importante! Pesa mucho y no se debe subir)
+venv/
+env/
+ENV/
 
-# Ignorar archivos secretos
+# Archivos temporales de Python (Basura que genera el sistema)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Base de datos local por defecto (Si usas SQLite)
+db.sqlite3
+db.sqlite3-journal
+
+# Secretos y Configuración (Lo que acabamos de arreglar)
 .env
-secretos.txt
+.python-version
 
-# Ignorar archivos del sistema
+# Archivos de Scrapy (A veces genera archivos de log o temporales)
+.scrapy/
+*.log
+
+# Carpetas de IDEs (VS Code o PyCharm)
+.vscode/
+.idea/
+
+# Archivos del sistema
 .DS_Store
 Thumbs.db
-
-# Ignorar todos los archivos .log
-*.log
