@@ -1,0 +1,14 @@
+# Ignorar carpetas de dependencias
+node_modules/
+dist/
+
+# Ignorar archivos secretos
+.env
+secretos.txt
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar todos los archivos .log
+*.log
