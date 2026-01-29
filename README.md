@@ -1,1 +1,2 @@
-# Proyecto3_Scraper_Naizabeth_Bermudez-
+# Web Scraper 
+
