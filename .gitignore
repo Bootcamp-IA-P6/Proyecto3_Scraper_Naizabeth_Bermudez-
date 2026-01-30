@@ -1,0 +1,29 @@
+# Entorno Virtual (¡Muy importante! Pesa mucho y no se debe subir)
+venv/
+env/
+ENV/
+
+# Archivos temporales de Python (Basura que genera el sistema)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Base de datos local por defecto (Si usas SQLite)
+db.sqlite3
+db.sqlite3-journal
+
+# Secretos y Configuración (Lo que acabamos de arreglar)
+.env
+.python-version
+
+# Archivos de Scrapy (A veces genera archivos de log o temporales)
+.scrapy/
+*.log
+
+# Carpetas de IDEs (VS Code o PyCharm)
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
