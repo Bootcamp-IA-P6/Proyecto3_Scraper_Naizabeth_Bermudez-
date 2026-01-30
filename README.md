@@ -1,6 +1,8 @@
 
 # Bienvenido al mundo de Scrapy
-[(https://github.com/Bootcamp-IA-P6/Proyecto3_Scraper_Naizabeth_Bermudez-/blob/develop/buscador/templates/img/scrapy.png?raw=true)](https://github.com/Bootcamp-IA-P6/Proyecto3_Scraper_Naizabeth_Bermudez-/blob/develop/buscador/templates/img/scrapy.png?raw=true)
+
+<img src="https://github.com/Bootcamp-IA-P6/Proyecto3_Scraper_Naizabeth_Bermudez-/blob/develop/buscador/templates/img/scrapy.png?raw=true" alt="Logo Scrapy" width="850">
+
  ![Scrapy](https://img.shields.io/badge/SCRAPY-2.11+-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL_WORKBENCH-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/DJANGO-5.0+-092E20?style=for-the-badge&logo=django&logoColor=white)
