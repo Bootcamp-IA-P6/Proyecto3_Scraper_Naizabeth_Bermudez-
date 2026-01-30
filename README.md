@@ -1,7 +1,7 @@
 
 # Bienvenido al mundo de Scrapy
 
-<img src="https://github.com/Bootcamp-IA-P6/Proyecto3_Scraper_Naizabeth_Bermudez-/blob/develop/buscador/templates/img/scrapy.png?raw=true" alt="Logo Scrapy" width="850">
+<img src="https://github.com/Bootcamp-IA-P6/Proyecto3_Scraper_Naizabeth_Bermudez-/blob/develop/buscador/templates/img/scrapy.png?raw=true" alt="Logo Scrapy" width="250">
 
  ![Scrapy](https://img.shields.io/badge/SCRAPY-2.11+-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL_WORKBENCH-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
