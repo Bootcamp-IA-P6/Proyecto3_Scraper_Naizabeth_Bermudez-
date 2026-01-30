@@ -237,4 +237,8 @@ class ScraperApiPipeline:
 - python manage.py runserver Para ver tu frontend y tus libros guardados
   
 
-  No te olvides de hacer un git clone y a la misma ves guiarte de el paso a paso de este repo 
+  No te olvides de hacer un git clone y a la misma ves guiarte de el paso a paso de este repo
+
+
+
+
